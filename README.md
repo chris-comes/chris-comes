@@ -2,7 +2,7 @@
 
 My name is Chris Comes and I am a software engineer at the University of Florida.
 
-I am a software lead of the University of Florida Rocket Team [[Website](https://ufl-rocket-team.org/), [Github](https://github.com/Swamp-Launch-Rocket-Team)]
+I am the software lead of the University of Florida Rocket Team competing in the 2023 NASA Student Launch Rocket Competition! [[Website](https://ufl-rocket-team.org/), [Github](https://github.com/Swamp-Launch-Rocket-Team)]
 
 ## Languages
 
